@@ -11,7 +11,7 @@ created by Mazen Touati ([twitter](https://twitter.com/Mazen_Designs), [facebook
 in order to run a Touch project you may choise one of the two way, the one using the default starter project which include the core styling or using the sass starter project in which you have a basic sass project architecture.
 
 ##### Documentation
-the documentation is available in the [official website](http://bscmm.com/touch) or [alternatice url](http://www.touch.comli.com) in case of the official website is down.
+the documentation is available in the [official website](http://bscmm.com/touch) or [alternatice url](http://touchcss.tk) in case of the official website is down.
 
 ##### license
 touch is licensed under [Apache License 2.0](http://www.apache.org/licenses). 
